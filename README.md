@@ -8,7 +8,7 @@
 ---
 
 ### **👨‍💻 About Me**  
-- **B.Tech in Information Technology** @ Panjab University (CGPA: 7.1).  
+- **B.Tech in Information Technology** @ Panjab University Swami Sarvanand Giri Regional Centre (CGPA: 7.1).  
 - Passionate about **Data Analysis, AI, and Web Development**.  
 - Strong foundation in **DSA, DBMS, and OOPs**.  
 - Built projects using **Python, SQL, Power BI, and more**.  
@@ -53,7 +53,7 @@
 ### **📫 Let’s Connect!**  
 🔗 **Portfolio:** [portfolio-aro1.vercel.app](https://portfolio-aro1.vercel.app/)  
 📧 **Email:** rohityadav00619@gmail.com  
-## Hi there 👋
+
 
 <!--
 **krissi0619/krissi0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
